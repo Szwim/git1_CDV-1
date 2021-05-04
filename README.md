@@ -3,7 +3,7 @@
 ### About project in CDV for GIT TRAINING
 # It's a huuge text
 
-This site is truly interesting [Gugla](https://www.google.pl/).
+This site is truly interesting [Google](https://www.google.pl/).
 
 ## Table
 | First Header  | Second Header |
